@@ -42,18 +42,5 @@ Designed using Axure’s event-driven logic and animation tools, this prototype 
 
 ![Bell](./output2.png)
 
----
-
-## 👨‍🎨 Author
-
-**Dinuki Prarthana**  
-🔗 [ GitHub](https://github.com/Dinuki85)  
-
-
----
-
-## 📄 License
-
-This prototype is created for educational/demo use. Feel free to use or customize it for your own design purposes.
 
 
